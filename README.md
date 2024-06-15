@@ -1,2 +1,2 @@
-## CycleSync
-# Menstrual Cycle Tracker: Empower Your Health Journey
+# CycleSync
+### Menstrual Cycle Tracker: Empower Your Health Journey
