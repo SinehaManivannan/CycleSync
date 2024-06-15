@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+vendor/
+
+# Environment files
+.env
+
+# Build outputs
+/dist/
+/build/
+/out/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Optional: ignore specific configuration files that may contain sensitive info
+/config/*.json
+
+# Optional: ignore specific scripts or compiled files
+/bin/
+/*.bundle.js
